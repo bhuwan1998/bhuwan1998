@@ -1,9 +1,7 @@
 ## Hi there, I'm Bhuwan 
 
-### I'm a student at Australian National University 
+### Last year computer science student at ANU Australia
 - :computer: Currently working on a data science portfolio 
-- To display portfolio projects I am working on a react portfolio website which will be hosted on github pages 
-- Goal 2022: To contribute to more open source projects
 
 <br />
 
