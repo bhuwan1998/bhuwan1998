@@ -1,7 +1,7 @@
 ## Hi there, I'm Bhuwan 
 
 ### Last year computer science student at ANU Australia
-- :computer: Currently working on a data science portfolio 
+
 
 <br />
 
