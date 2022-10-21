@@ -2,6 +2,22 @@
 
 ### Last year computer science student at ANU Australia
 
+### Languages 
+<ul>
+  <li> Python </li>
+  <li> C </li> 
+  <li> C# </li> 
+  <li> JS </li>
+  <li> MySQL </li> 
+  <li> PostgreSQL</li>
+  <li> Android Studio </li> 
+  <li> JavaFX </li> 
+</ul>
+
+### Projects 
+
+
+
 
 <br />
 
