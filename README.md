@@ -18,6 +18,7 @@
 
 <ul> 
   <li> Sentiment Analysis of Elon Musk's tweets and its related effect on Tesla stock. </li> 
+  <li> Portfolio website through Gatsby JS with Netlify as deployment tool. </li>
 <ul> 
 
 
