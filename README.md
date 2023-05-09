@@ -20,6 +20,11 @@
   <li> Sentiment Analysis of Elon Musk's tweets and its related effect on Tesla stock. </li> 
   <li> Portfolio website through Gatsby JS with Netlify as deployment tool. </li>
 <ul> 
+  
+#### Github Statistics 
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuwan1998)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <br />
