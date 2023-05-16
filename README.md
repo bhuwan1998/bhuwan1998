@@ -10,9 +10,14 @@
   <li> JS </li>
   <li> MySQL </li> 
   <li> PostgreSQL</li>
-  <li> Android Studio </li> 
-  <li> JavaFX </li> 
+  <li> Java </li>
 </ul>
+
+### Tools 
+<ul> 
+  <li> Unity </li> 
+  <li> Android Studio </li> 
+ </ul>
 
 ### Projects 
 
