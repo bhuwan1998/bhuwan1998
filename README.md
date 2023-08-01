@@ -1,6 +1,6 @@
 ## Hi there, I'm Bhuwan 
 
-### Last year computer science student at ANU Australia
+### Fresh Graduate Software Engineer from Australian National University.
 
 ### Languages 
 <ul>
@@ -8,6 +8,7 @@
   <li> C </li> 
   <li> C# </li> 
   <li> JS </li>
+  <li> JavaScript </li>
   <li> MySQL </li> 
   <li> PostgreSQL</li>
   <li> Java </li>
@@ -22,7 +23,7 @@
 ### Projects 
 
 <ul> 
-  <li> Sentiment Analysis of Elon Musk's tweets and its related effect on Tesla stock. </li> 
+  <li> Sentiment Analysis of Elon Musk's tweets and its related effect on X.Corp stock. </li> 
   <li> Portfolio website through Gatsby JS with Netlify as deployment tool. </li>
 <ul> 
   
