@@ -27,12 +27,15 @@
   <li> Portfolio website through Gatsby JS with Netlify as deployment tool. </li>
 <ul> 
   
-#### Github Statistics 
+### Github Statistics
+<br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuwan1998&theme=algolia&show_icons=true)
 
+### Leetcode Profile 
+<br/>
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/bhuwan1998?theme=unicorn&font=Ubuntu&ext=heatmap)
 
 <br />
 
