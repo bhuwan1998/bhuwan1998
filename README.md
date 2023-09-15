@@ -6,7 +6,7 @@
 
 <ul> 
   <li> Sentiment Analysis of Elon Musk's tweets and its related effect on X.Corp stock. </li> 
-  <li> Portfolio website through Gatsby JS with Netlify as deployment tool. </li>
+  <li> Portfolio website through Gatsby JS with Netlify as deployment tool </li>
 </ul> 
   
 ### Github Statistics
@@ -25,6 +25,8 @@
   <li> Java </li>
 </ul>
 
+### Website 
+[Portfolio](https://www.bhuwanbansal.com)
 
 ### Languages and Tools 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
