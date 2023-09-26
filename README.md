@@ -22,7 +22,7 @@
 
 
 ### Leetcode Profile 
-![LeetCode Stats](https://leetcard.jacoblin.cool/bhuwan1998?theme=unicorn&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/bhuwan1998?theme=dark&font=Ubuntu&ext=heatmap)
 
 ### Languages 
 <ul>
