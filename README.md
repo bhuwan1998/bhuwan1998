@@ -5,12 +5,23 @@
 ### Projects 
 
 <ul> 
-  <li> Sentiment Analysis of Elon Musk's tweets and its related effect on X.Corp stock. </li> 
+  <li> Sentiment Analysis of Elon Musk's tweets and its related effect on Tesla stock. </li> 
   <li> Portfolio website through Gatsby JS with Netlify as deployment tool </li>
 </ul> 
   
 ### Github Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuwan1998&theme=algolia&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuwan1998&theme=algolia&show_icons=true) -->
+<div align="centre">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuwan1998&theme=github_dark" alt="GitHub Profile Details"/>
+</div>
+<div align="centre"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuwan1998&theme=github_dark" alt="GitHub Stats" width="400" height="400"/> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhuwan1998&theme=github_dark" alt="Github Stats" width="400" height="400"/>
+</div>
+<div align="centre">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuwan1998&theme=github_dark" alt="GitHub Profile Details"/>
+</div>
+
 
 ### Leetcode Profile 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bhuwan1998?theme=unicorn&font=Ubuntu&ext=heatmap)
