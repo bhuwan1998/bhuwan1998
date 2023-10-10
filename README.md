@@ -38,7 +38,7 @@
 
 
 #### Currently Coding and Listening to 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=federer785&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=federer785&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)
+<!-- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=federer785&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=federer785&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false) -->
 
 ### Languages and Tools 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
