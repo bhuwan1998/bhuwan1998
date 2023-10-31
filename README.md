@@ -37,7 +37,7 @@
 ### [Click Here - Personal Website](https://www.bhuwanbansal.com)
 
 
-#### Currently Coding and Listening to 
+<!--#### Currently Coding and Listening to --> 
 <!-- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=federer785&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=federer785&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false) -->
 
 ### Languages and Tools 
