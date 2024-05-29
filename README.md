@@ -14,6 +14,8 @@
   
 ### Github Statistics
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhuwan1998&theme=algolia&show_icons=true) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhuwan1998&theme=transparent)](https://git.io/streak-stats)
+
 <div align="centre">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuwan1998&theme=github_dark" alt="GitHub Profile Details"/>
 </div>
